@@ -2,6 +2,8 @@
 
 This project consist to clusturing an docker-compose application and deploy it with Kubernetes.
 
+![Kubernetes](https://kubernetes.io/images/kubernetes-horizontal-color.png)
+
 ## Describe
 
 The project consists of setting up an infrastructure of different services using Kubernetes.
